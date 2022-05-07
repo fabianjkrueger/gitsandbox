@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Clown of Rivendell 3434355 
 Attacked by Mordor
+=======
+Lord of Rivendell 123
+>>>>>>> Rivendell
 =======
 Lord of Rivendell 123
 >>>>>>> Rivendell
